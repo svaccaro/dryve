@@ -1,0 +1,10 @@
+C:\Users\svaccaro\Source\repos\Dryve\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\svaccaro\Source\repos\Dryve\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\svaccaro\Source\repos\Dryve\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\svaccaro\Source\repos\Dryve\ConsoleApp\bin\Debug\InstrumentControlLibrary.dll
+C:\Users\svaccaro\Source\repos\Dryve\ConsoleApp\bin\Debug\InstrumentControlLibrary.pdb
+C:\Users\svaccaro\Source\repos\Dryve\ConsoleApp\obj\Debug\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\svaccaro\Source\repos\Dryve\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\svaccaro\Source\repos\Dryve\ConsoleApp\obj\Debug\ConsoleApp.csproj.CopyComplete
+C:\Users\svaccaro\Source\repos\Dryve\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\svaccaro\Source\repos\Dryve\ConsoleApp\obj\Debug\ConsoleApp.pdb

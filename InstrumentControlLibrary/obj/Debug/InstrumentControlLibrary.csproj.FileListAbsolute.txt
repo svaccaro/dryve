@@ -1,0 +1,6 @@
+C:\Users\svaccaro\Source\repos\Dryve\InstrumentControlLibrary\bin\Debug\InstrumentControlLibrary.dll
+C:\Users\svaccaro\Source\repos\Dryve\InstrumentControlLibrary\bin\Debug\InstrumentControlLibrary.pdb
+C:\Users\svaccaro\Source\repos\Dryve\InstrumentControlLibrary\obj\Debug\InstrumentControlLibrary.csprojAssemblyReference.cache
+C:\Users\svaccaro\Source\repos\Dryve\InstrumentControlLibrary\obj\Debug\InstrumentControlLibrary.csproj.CoreCompileInputs.cache
+C:\Users\svaccaro\Source\repos\Dryve\InstrumentControlLibrary\obj\Debug\InstrumentControlLibrary.dll
+C:\Users\svaccaro\Source\repos\Dryve\InstrumentControlLibrary\obj\Debug\InstrumentControlLibrary.pdb
